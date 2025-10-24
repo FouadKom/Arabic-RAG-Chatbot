@@ -24,7 +24,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** API using **F
 
 ## Install dependencies:
 ```bash
-pip install fastapi uvicorn nest-asyncio pyngrok requests langchain langchain_text_splitters langchain_chroma pydantic
+pip install -r requirements.txt
 ```
 
 ## Required environment variables:
