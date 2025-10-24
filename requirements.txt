@@ -1,0 +1,13 @@
+langchain
+langchain-google-genai
+langchain-chroma
+langchain_community
+langchain-text-splitters
+sentence-transformers
+requests
+pydantic
+pypdf
+fastapi
+uvicorn
+pyngrok
+nest-asyncio
